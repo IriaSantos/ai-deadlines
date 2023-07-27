@@ -1,4 +1,19 @@
 ---
+- title: EvoMUSART
+  year: 2024
+  id: EvoMUSART2024
+  full_name: 13th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART)
+  link: https://www.evostar.org/2024/evomusart/
+  deadline: '2023-11-01 23:59:59'
+  timezone: Madrid, Spain
+  place: Aberystwyth, Wales, UK
+  date: April 3-5, 2024
+  start: 2024-04-03
+  end: 2024-04-05
+  hindex: 12
+  sub: CG
+  note: Part of evostar 2023. Submissions must be at most 16 pages long, in Springer LNCS format. Each submission must be anonymized for a double-blind review process. Accepted papers will be presented orally or as posters at the event and included in the EvoMUSART proceedings published by Springer Nature in a dedicated volume of the Lecture Notes in Computer Science series.
+  
 - title: WACV
   year: 2024
   id: wacv24
